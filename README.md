@@ -1,9 +1,8 @@
-# 🥬 [SGPHT] — Sistema de Gestão e PDV para Hortifruti
+# 🥬 SGPHT — Sistema de Gestão e PDV para Hortifruti
 
 ![Java](https://shields.io)
 ![Spring Boot](https://shields.io)
 ![PostgreSQL](https://shields.io)
-
 
 > **Status do Projeto:** 📝 Em fase de planejamento e estruturação inicial
 
