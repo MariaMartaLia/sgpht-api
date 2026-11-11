@@ -1,8 +1,13 @@
 # 🥬 SGPHT — Sistema de Gestão e PDV para Hortifruti
 
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![PostgreSQL](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" width="48" height="48" alt="Java 21" title="Java 21" />
+  &nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" height="48" alt="Spring Boot 3" title="Spring Boot 3" />
+  &nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+</p>
+
 
 > **Status do Projeto:** 📝 Em fase de planejamento e estruturação inicial
 
@@ -60,5 +65,14 @@ Acompanhe a evolução da construção do sistema:
 Desenvolvido por **Maria Marta Almeida Brito**  
 *Graduanda em Análise e Desenvolvimento de Sistemas*  
 
-[![LinkedIn](https://in/mariamartabrito)](https://linkedin.com)
-[![GitHub](https://https://MariaMartaLia)](https://github.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://jsdelivr.net" width="36" height="36" alt="LinkedIn" title="Conectar no LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com" target="_blank">
+    <img src="https://jsdelivr.net" width="36" height="36" alt="GitHub" title="Ver GitHub" />
+  </a>
+</p>
+
+
